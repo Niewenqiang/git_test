@@ -15,4 +15,5 @@ func(hs *httpserver) Run() int{
 }
 func main() {
 	NewHttpServer().Run()
+	fmt.Println("test")
 }
