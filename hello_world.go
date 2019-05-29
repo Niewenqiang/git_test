@@ -20,7 +20,7 @@ func main() {
 
 	fmt.Println("456")
 
-	fmt.Println("789")
 	fmt.Println("abc")
+
 
 }
