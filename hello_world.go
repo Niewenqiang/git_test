@@ -18,4 +18,6 @@ func main() {
 	fmt.Println("test")
 	fmt.Println("123")
 
+	fmt.Println("456")
+
 }
